@@ -1,0 +1,22 @@
+{
+  "name": "san-template-parser-performance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/100pah/san-template-parser-performance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/100pah/san-template-parser-performance/issues"
+  },
+  "homepage": "https://github.com/100pah/san-template-parser-performance#readme",
+  "dependencies": {
+    "san": "^3.7.7"
+  }
+}
